@@ -1,8 +1,8 @@
 # __Cisco Certified Support Technician Networking__
-<a href='#'>
+<a href='https://www.credly.com/badges/9273a297-c89f-4407-9067-7a09cfbc7916/public_url'>
 <img alt='Badge Image' width='200px' src='https://images.credly.com/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png'></a>
 
- [VERIFY](https://www.credly.com/badges/9273a297-c89f-4407-9067-7a09cfbc7916/public_url)
+ __Verify__ : [6GRp-DkxE](verify.certiport.com)
 
 ---
 
